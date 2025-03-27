@@ -17,4 +17,5 @@ d. An example react project was uploaded to the repo git@github.com:lotuskshetri
 e. SSH key for the ubuntu server was added to the github for future ease.
 
 f. Dependencies were installed and docker image was created.
-   
+
+
