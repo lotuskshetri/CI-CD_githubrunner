@@ -18,4 +18,16 @@ e. SSH key for the ubuntu server was added to the github for future ease.
 
 f. Dependencies were installed and docker image was created.
 
+1.2 After getting access to EC2 same process was repeated.
+
+a. The image pushed in dockerhub was pulled in the server 
+
+b. Docker composer.yml was also created
+
+c. Repositories secrets were added in actions
+
+d. cicd.yml was created for CD that triggers build in github actions after commits in repositories were detected.
+
+e. This concludes the CI/CD cycle.
+ 
 
